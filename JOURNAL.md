@@ -27,7 +27,7 @@
 
 ### 2026-10-07 — The KiCad schematic was giving problems when trying to convert to PCB yesterday, so decided to diagnose that problem today.
 
-**1.5h**
+**1h**
 
 The KiCad schematic was giving problems when trying to convert to PCB yesterday, so decided to diagnose that problem today.
 
