@@ -33,8 +33,8 @@ The KiCad schematic was giving problems when trying to convert to PCB yesterday,
 
 By the end of my ~1hr session yesterday, I had read through the guides and completed the KiCad schematic, but the footprint assignment and PCB conversion was spitting out tons of errors and warnings, so i messed around a bit and searched online and it turns out the footprints were giving problems- the guide didn't mention what footprints to put for what parts, and there were more parts than footprints in the folder, so I was a bit confused as to what parts needed what footprints and if some parts even needed the footprints.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/RP85RpLQNGkF1woRU3LVodvnCJnZkzec/bb9e452a41111e59f2167a7145951504b40b176e1cd1fb6503f40ed925a0744d.png)
-
-Watched a few tutorials online, and was able to fix errors for most of the parts, except the main module, the ESP. The guide called for a  XIAO-ESP32-C3 module, but the footprint had the XIAO-ESP-C6 module footprint. Still stuck on that so put it up on the #half-life channel, and moving on to the next step now, skipping over the PCB
-
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/RP85RpLQNGkF1woRU3LVodvnCJnZkzec/29c617633f43b1e12a8265bd52115a3d101bb19f67870b421184a407af12f346.png)
+
+Watched a few tutorials online, and was able to fix errors for most of the parts, except the main module, the ESP. The guide called for a  XIAO-ESP32-C3 module, but the footprint had the XIAO-ESP-C6 module footprint. Still stuck on that so put it up on the #half-life channel, and moving on to the next step now, skipping over the PCB wiring. Got most of it to work though, which i think was good enough.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/RP85RpLQNGkF1woRU3LVodvnCJnZkzec/bb9e452a41111e59f2167a7145951504b40b176e1cd1fb6503f40ed925a0744d.png)
